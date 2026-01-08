@@ -5,7 +5,7 @@
 
 ### 🔹 Frontend Interface
 - ⭐ Information and visualization system
-- ✨ Contact and
+- ✨ Contact
 - 🎨 Modern responsive interface with custom.
 - ⚡ Submit forms using form.io
 
